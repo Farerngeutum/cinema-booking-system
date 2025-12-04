@@ -1,0 +1,16 @@
+# Database
+cinema.db
+cinema_data.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
